@@ -1,5 +1,5 @@
 {
-  "name": "minimist",
+  "name": "vscode-minimist",
   "version": "1.2.0",
   "description": "parse argument options",
   "main": "index.js",
