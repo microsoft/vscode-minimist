@@ -7,6 +7,15 @@ fanciful decoration.
 
 [![Build Status](https://dev.azure.com/vscode/vscode-minimist/_apis/build/status/microsoft.vscode-minimist?branchName=master)](https://dev.azure.com/vscode/vscode-minimist/_build/latest?definitionId=29&branchName=master)
 
+### Publish to NPM
+
+Simply push a new tag and the CI will automatically publish to NPM. The usual flow is:
+
+```sh
+npm version [minor|patch]
+git push --follow-tags
+```
+
 # example
 
 ``` js
