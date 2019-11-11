@@ -16,9 +16,6 @@ steps:
 - script: yarn
   displayName: Install Dependencies
 
-- script: yarn compile
-  displayName: Compile
-
 - script: yarn test
   displayName: Run Tests
 
