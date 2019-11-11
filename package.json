@@ -5,8 +5,8 @@
   "main": "index.js",
   "devDependencies": {
     "covert": "^1.0.0",
-    "tap": "~0.4.0",
-    "tape": "^3.5.0"
+    "tap": "^14.9.2",
+    "tape": "^4.11.0"
   },
   "scripts": {
     "test": "tap test/*.js",
