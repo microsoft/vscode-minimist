@@ -5,9 +5,7 @@ parse argument options
 This module is the guts of optimist's argument parser without all the
 fanciful decoration.
 
-[![browser support](https://ci.testling.com/substack/minimist.png)](http://ci.testling.com/substack/minimist)
-
-[![build status](https://secure.travis-ci.org/substack/minimist.png)](http://travis-ci.org/substack/minimist)
+[![Build Status](https://dev.azure.com/vscode/vscode-minimist/_apis/build/status/microsoft.vscode-minimist?branchName=master)](https://dev.azure.com/vscode/vscode-minimist/_build/latest?definitionId=29&branchName=master)
 
 # example
 
